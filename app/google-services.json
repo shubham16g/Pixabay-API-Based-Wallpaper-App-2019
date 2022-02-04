@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "854260438989",
+    "firebase_url": "https://wakeupwallpaper.firebaseio.com",
+    "project_id": "wakeupwallpaper",
+    "storage_bucket": "wakeupwallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854260438989:android:9a6d1b1f3bf112c29dd684",
+        "android_client_info": {
+          "package_name": "com.samcreators.wakeupwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854260438989-a90h7m9ag5klf4l506jmd87sceq51ark.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samcreators.wakeupwallpaper",
+            "certificate_hash": "b631cf9da99db8a1dec532a17e4ee006a8588418"
+          }
+        },
+        {
+          "client_id": "854260438989-6cb70vriqjj2icufnd9j6egk1p9cjutv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD1R4FvBPUhBD0kuVvZ9r8eHcN2h5Jf2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854260438989-6cb70vriqjj2icufnd9j6egk1p9cjutv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

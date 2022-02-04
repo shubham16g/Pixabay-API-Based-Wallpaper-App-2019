@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none"
+        android:id="@+id/group1">
+        <item
+            android:icon="@drawable/ic_autorenew_24dp"
+            android:id="@+id/offline_generator"
+            android:title="OFFLINE GENERATOR"/>
+        <item
+            android:icon="@drawable/ic_collections_gallery_24dp"
+            android:id="@+id/gallery"
+            android:title="GALLERY"/>
+        <item
+            android:icon="@drawable/ic_cloud_download_24dp"
+            android:id="@+id/downloads"
+            android:title="DOWNLOADS"/>
+    </group>
+    <group android:checkableBehavior="none"
+        android:id="@+id/group2">
+        <item
+            android:icon="@drawable/ic_settings_24dp"
+            android:id="@+id/settings"
+            android:title="SETTINGS"/>
+        <item
+            android:icon="@drawable/ic_share_24dp"
+            android:id="@+id/share_app"
+            android:title="SHARE APP"/>
+        <item
+            android:icon="@drawable/ic_info_24dp"
+            android:id="@+id/about"
+            android:title="ABOUT"/>
+    </group>
+</menu>

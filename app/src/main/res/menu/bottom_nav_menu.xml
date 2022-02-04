@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_home_24dp"
+        android:id="@+id/home"
+        android:title="HOME"/>
+    <item
+        android:icon="@drawable/ic_whatshot_24dp"
+        android:id="@+id/popular"
+        android:title="POPULAR"/>
+    <item
+        android:icon="@drawable/ic_web_24dp"
+        android:id="@+id/categories"
+        android:title="CATEGORIES"/>
+    <item
+        android:icon="@drawable/ic_history_24dp"
+        android:id="@+id/recent"
+        android:title="RECENT"/>
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5CA6D8</color>
+    <color name="colorPrimaryDark">#303030</color>
+    <color name="colorAccent">#E2649A</color>
+    <!--<color name="colorThemeA">#0B8D82</color>
+    <color name="colorThemeB">#0A4BAC</color>-->
+    <color name="app_background">#111F2C</color>
+    <color name="bottomNavBackground">#1C3A58</color>
+    <color name="colorThemeA">#0B438D</color>
+    <color name="colorThemeB">#4BA578</color>
+</resources>

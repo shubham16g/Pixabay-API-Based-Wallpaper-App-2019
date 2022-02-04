@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="172dp"
+    android:padding="25dp"
+    android:background="#2fff"
+    android:orientation="vertical">
+
+    <ImageView
+        android:src="@drawable/picture"
+        android:layout_width="55dp"
+        android:layout_height="55dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Developer: Shubham Gupta"
+        android:textColor="#cfff"
+        android:layout_marginTop="5dp"
+        android:textSize="16sp"/>
+
+</LinearLayout>
